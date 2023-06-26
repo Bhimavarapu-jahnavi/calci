@@ -1,6 +1,6 @@
 button {
     border: none;
-    background-color: #503CD1;
+    background-color: #06050a;
     font-size: 24px;
     color: #fff;
     font-weight: bold;
@@ -10,15 +10,15 @@ button {
 }
 
 button:hover{
-    background-color: #6A5AD1;
+    background-color: #8e86be;
 }
 
 .equals{
     grid-column: 3/5;
-    background-color: #B31312;
+    background-color: #ad630f;
 
 }
 
 .equals:hover{
-    background-color: #f33d1d;
+    background-color: #826b29;
 }
